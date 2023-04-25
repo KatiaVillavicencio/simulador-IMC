@@ -1,14 +1,4 @@
 
-//const Nombre = " "
-
-//for (let i = 0; i<=1; i ++){
-//let  = (prompt ("Ingrese un nombre"));
-//if (NombreUsuario == Nombre !=  Nombre){
-// prompt ("Bienvenido" + Nombre)}//
-//}/
-
-
-
 let saludo = false
 while (saludo === false) {
     console.log("¡Hola!")
